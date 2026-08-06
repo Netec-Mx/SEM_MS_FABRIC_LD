@@ -1,3 +1,5 @@
+<img src="images/neteclogo (2).png" alt="logo" width="300"/>
+
 # Introducción a Microsoft Fabric
 
 Los participantes conocerán los fundamentos de Microsoft Fabric y comprenderán cómo esta plataforma integra el almacenamiento, la ingeniería de datos, el análisis, la inteligencia empresarial y la inteligencia artificial dentro de un ecosistema unificado. Asimismo, explorarán sus principales componentes y conocerán el flujo básico para desarrollar proyectos analíticos utilizando Microsoft Fabric.
@@ -20,8 +22,12 @@ Los participantes conocerán los fundamentos de Microsoft Fabric y comprenderán
   - Descripción: Demostración de un flujo de trabajo básico en Microsoft Fabric para conectar una fuente de datos, preparar y explorar la información, visualizar resultados en un reporte de Power BI y observar el uso de Microsoft Copilot como apoyo en la generación de consultas, transformaciones y análisis de datos.
   - Duración estimada: 30 min
 
-## Flujo de colaboración
+  ---
 
-- Trabajar en `changes_course`.
-- Crear Pull Request hacia `main`.
-- Merge por `Squash and merge`.
+## 📬 **Contacto y más información**
+
+Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
+
+---
+
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
